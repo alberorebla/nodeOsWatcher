@@ -1,0 +1,20 @@
+cpu-list single-cpu {
+  display: block;
+  float: left;
+  width: 300px;
+  height: 240px;
+  border: 1px solid black;
+  margin: 1px;
+  padding: 10px;
+}
+div {
+  border: 1px;
+  border-radius: 25px;
+  background: #8AC007;
+  padding: 20px;
+  width: 250px;
+}
+.a {
+  color: 'white';
+  background-color: 'black';
+}
